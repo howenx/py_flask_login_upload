@@ -4,6 +4,10 @@ __pycache__/
 
 # C extensions
 *.so
+#sqlite db
+data.db
+uploads/
+
 
 # Distribution / packaging
 .Python

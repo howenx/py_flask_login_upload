@@ -1,0 +1,16 @@
+                         / analysis /
+
+                 a data upload and analysis application
+
+
+    ~ What is analysis?
+
+      A sqlite powered data analysis application
+
+    ~ How do I use it?
+
+      1. . now you can run the analysis.py file with your
+         python interpreter and the application will
+         greet you on http://localhost:5000/
+	
+      2. . Use SQLiteStudio manager the root dictory data.db file
